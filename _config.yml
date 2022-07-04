@@ -16,7 +16,7 @@
 title: "Hello. I'm Ludwig Schubert."
 email: "ludwigschubi@gmail.com"
 description: "I'm a software developer and designer from Berlin creating useful things for the web."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio-site" # the subpath of your site, e.g. /blog
 url: "https://ludwigschubi.github.io/portfolio-site" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: "ludwigschubi"
 
