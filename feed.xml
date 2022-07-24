@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I'm Ludwig Schubert.</title>
+    <description>I'm a software developer and designer from Berlin creating useful things for the web.</description>
+    <link>https://ludwigschubi.github.io/portfolio-site/portfolio-site/</link>
+    <atom:link href="https://ludwigschubi.github.io/portfolio-site/portfolio-site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 Jul 2022 16:00:03 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Jul 2022 16:00:03 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>First post</title>
+        <description>&lt;p&gt;This is my first post.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://ludwigschubi.github.io/portfolio-site/portfolio-site/development/design/2022/07/04/first-post.html</link>
+        <guid isPermaLink="true">https://ludwigschubi.github.io/portfolio-site/portfolio-site/development/design/2022/07/04/first-post.html</guid>
+        
+        <category>Blog</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+  </channel>
+</rss>
